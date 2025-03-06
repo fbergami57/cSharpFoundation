@@ -1,0 +1,14 @@
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\bin\Debug\net8.0\Guided Project - Calculate and print student grade.exe
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\bin\Debug\net8.0\Guided Project - Calculate and print student grade.deps.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\bin\Debug\net8.0\Guided Project - Calculate and print student grade.runtimeconfig.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\bin\Debug\net8.0\Guided Project - Calculate and print student grade.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\bin\Debug\net8.0\Guided Project - Calculate and print student grade.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\Guided Project - Calculate and print student grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\Guided Project - Calculate and print student grade.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\Guided Project - Calculate and print student grade.AssemblyInfo.cs
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\Guided Project - Calculate and print student grade.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\Guided Project - Calculate and print student grade.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\refint\Guided Project - Calculate and print student grade.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\Guided Project - Calculate and print student grade.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\Guided Project - Calculate and print student grade.genruntimeconfig.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Guided Project - Calculate and print student grade\obj\Debug\net8.0\ref\Guided Project - Calculate and print student grade.dll

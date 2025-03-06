@@ -1,0 +1,14 @@
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\bin\Debug\net8.0\Perform basic operations on numbers in C#.exe
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\bin\Debug\net8.0\Perform basic operations on numbers in C#.deps.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\bin\Debug\net8.0\Perform basic operations on numbers in C#.runtimeconfig.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\bin\Debug\net8.0\Perform basic operations on numbers in C#.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\bin\Debug\net8.0\Perform basic operations on numbers in C#.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\Perform basic operations on numbers in C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\Perform basic operations on numbers in C#.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\Perform basic operations on numbers in C#.AssemblyInfo.cs
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\Perform basic operations on numbers in C#.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\Perform basic operations on numbers in C#.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\refint\Perform basic operations on numbers in C#.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\Perform basic operations on numbers in C#.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\Perform basic operations on numbers in C#.genruntimeconfig.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Perform basic operations on numbers in C#\obj\Debug\net8.0\ref\Perform basic operations on numbers in C#.dll

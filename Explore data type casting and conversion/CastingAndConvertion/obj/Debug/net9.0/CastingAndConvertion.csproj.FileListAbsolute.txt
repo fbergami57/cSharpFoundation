@@ -1,0 +1,14 @@
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\bin\Debug\net9.0\CastingAndConvertion.exe
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\bin\Debug\net9.0\CastingAndConvertion.deps.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\bin\Debug\net9.0\CastingAndConvertion.runtimeconfig.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\bin\Debug\net9.0\CastingAndConvertion.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\bin\Debug\net9.0\CastingAndConvertion.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\CastingAndConvertion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\CastingAndConvertion.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\CastingAndConvertion.AssemblyInfo.cs
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\CastingAndConvertion.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\CastingAndConvertion.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\refint\CastingAndConvertion.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\CastingAndConvertion.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\CastingAndConvertion.genruntimeconfig.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Explore data type casting and conversion\CastingAndConvertion\obj\Debug\net9.0\ref\CastingAndConvertion.dll

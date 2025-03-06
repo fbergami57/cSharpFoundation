@@ -1,0 +1,14 @@
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\bin\Debug\net9.0\StudentScores.exe
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\bin\Debug\net9.0\StudentScores.deps.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\bin\Debug\net9.0\StudentScores.runtimeconfig.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\bin\Debug\net9.0\StudentScores.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\bin\Debug\net9.0\StudentScores.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\StudentScores.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\StudentScores.AssemblyInfo.cs
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\StudentScores.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\StudentScores.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\refint\StudentScores.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\StudentScores.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\StudentScores.genruntimeconfig.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Calculate the average of the student's assignment scores\StudentScores\obj\Debug\net9.0\ref\StudentScores.dll

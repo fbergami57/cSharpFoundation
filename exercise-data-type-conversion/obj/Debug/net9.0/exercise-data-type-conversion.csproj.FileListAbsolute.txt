@@ -1,0 +1,14 @@
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\exercise-data-type-conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\exercise-data-type-conversion.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\exercise-data-type-conversion.AssemblyInfo.cs
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\exercise-data-type-conversion.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\bin\Debug\net9.0\exercise-data-type-conversion.exe
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\bin\Debug\net9.0\exercise-data-type-conversion.deps.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\bin\Debug\net9.0\exercise-data-type-conversion.runtimeconfig.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\bin\Debug\net9.0\exercise-data-type-conversion.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\bin\Debug\net9.0\exercise-data-type-conversion.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\exercise-data-type-conversion.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\refint\exercise-data-type-conversion.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\exercise-data-type-conversion.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\exercise-data-type-conversion.genruntimeconfig.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\exercise-data-type-conversion\obj\Debug\net9.0\ref\exercise-data-type-conversion.dll

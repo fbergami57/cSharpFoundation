@@ -1,0 +1,332 @@
+https://learn.microsoft.com/training/modules/csharp-write-first/
+What is a programming language?
+What is compilation?
+R: A special program called a compiler converts your source code into a different format that the computer's central 
+processing unit (CPU) can execute.
+What is syntax?
+R: The rules for writing C# code is called syntax. Just like human languages have rules regarding punctuation and sentence 
+structure, computer programming languages also have rules. Those rules define the keywords and operators of C# and how they 
+are put together to form programs.
+Understand the flow of execution
+
+https://learn.microsoft.com/training/modules/csharp-literals-variables/
+//String or char
+Console.WriteLine("H,e,l,l,o");
+Console.WriteLine('b');
+Console.WriteLine("Hello, World!");
+//int or decimal
+Console.WriteLine(123);
+Console.WriteLine(0.25F);
+Console.WriteLine(2.625);
+Console.WriteLine(12.39816m);
+//boolean
+Console.WriteLine(true);
+Console.WriteLine(false);
+
+Console.WriteLine("123");
+Console.WriteLine(123);
+
+Console.WriteLine("true");
+Console.WriteLine(true);
+
+https://learn.microsoft.com/training/modules/csharp-basic-formatting/
+Console.WriteLine("Hello\nWorld!");
+Console.WriteLine("Hello\tWorld!");
+
+Console.WriteLine("Hello "World"!"); --Wrong
+
+Console.WriteLine("Hello \"World\"!");
+
+Console.WriteLine("c:\source\repos"); --Wrong
+
+Console.WriteLine("c:\\source\\repos");
+
+Console.WriteLine("Generating invoices for customers \"Contoso Corp\" ... \n");
+Console.WriteLine("Invoice: 1021\t\tComplete!");
+Console.WriteLine("Invoice: 1022\t\tComplete!");
+Console.WriteLine("\nOutput Directory?\t");
+
+Console.WriteLine(@"    c:\source\repos
+            (this is where your code goes)");
+			
+Console.Write(@"c:\invoices");
+
+Unicode escape characters
+// Kon'nichiwa World
+Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
+
+Output
+こんにちは World!
+
+// To generate Japanese invoices:
+// Nihon no seikyū-sho o seisei suru ni wa:
+Console.Write("\n\n\u65e5\u672c\u306e\u8acb\u6c42\u66f8\u3092\u751f\u6210\u3059\u308b\u306b\u306f\uff1a\n\t");
+// User command to run an application
+Console.WriteLine(@"c:\invoices\app.exe -j");
+
+Output
+日本の請求書を生成するには：
+	c:\invoices\app.exe -j
+	
+
+Console.WriteLine("Generating invoices for customer \"Contoso Corp\" ...\n");
+Console.WriteLine("Invoice: 1021\t\tComplete!");
+Console.WriteLine("Invoice: 1022\t\tComplete!");
+Console.WriteLine("\nOutput Directory:\t");
+Console.Write(@"c:\invoices");
+
+// To generate Japanese invoices:
+// Nihon no seikyū-sho o seisei suru ni wa:
+Console.Write("\n\n\u65e5\u672c\u306e\u8acb\u6c42\u66f8\u3092\u751f\u6210\u3059\u308b\u306b\u306f\uff1a\n\t");
+// User command to run an application
+Console.WriteLine(@"c:\invoices\app.exe -j");
+----------
+Console.WriteLine("Generating invoices for customer \"Contoso Corp\" ...\n");
+Console.WriteLine("Invoice: 1021\t\tComplete!");
+Console.WriteLine("Invoice: 1022\t\tComplete!");
+Console.WriteLine("\nOutput Directory:\t");
+Console.Write(@"c:\invoices");
+
+// To generate Japanese invoices:
+// Nihon no seikyū-sho o seisei suru ni wa:
+Console.Write("\n\n\u65e5\u672c\u306e\u8acb\u6c42\u66f8\u3092\u751f\u6210\u3059\u308b\u306b\u306f\uff1a\n\t");
+// User command to run an application
+Console.WriteLine(@"c:\invoices\app.exe -j");
+
+Output
+Generating invoices for customer "Contoso Corp" ...
+
+Invoice: 1021            Complete!
+Invoice: 1022            Complete!
+
+Output Directory:
+c:\invoices
+
+日本の請求書を生成するには：
+    c:\invoices\app.exe -j
+----------
+
+What is string concatenation?
+String concatenation is "programmer speak" for simply combining two or more string values into a new string value. Unlike addition, 
+the second value is appended to the end of the first value, and so on. In the following exercise, you'll write code to concatenate 
+string values together.
+---
+string firstName = "Bergami";
+string message = "Hello " + firstName;
+Console.WriteLine(message);
+
+Output
+Hello Bergami
+---
+string firstName = "Bergami";
+string greeting = "Hello";
+string message = greeting + " " + firstName + "!";
+Console.WriteLine(message);
+
+Output
+Hello Bergami!
+---
+string firstName = "Bergami";
+string greeting = "Hello";
+Console.WriteLine(greeting + " " + firstName + "!");
+
+Output
+Hello Bergami!
+---
+What is string interpolation?
+String interpolation combines multiple values into a single literal string by using a "template" and one or more interpolation expressions. 
+An interpolation expression is indicated by an opening and closing curly brace symbol { }.
+---
+Example
+string message = greeting + " " + firstName + "!";
+---
+string firstName = "Bob";
+string message = $"Hello {firstName}!";
+Console.WriteLine(message);
+---
+int version = 11;
+string updateText = "Update to Windows";
+string message = $"{updateText} {version}";
+Console.WriteLine(message);
+
+Output
+Update to Windows 11
+---
+//Eliminating temporary variables
+int version = 11;
+string updateText = "Update to Windows";
+Console.WriteLine($"{updateText} {version}!");
+
+Output
+Update to Windows 11!
+---
+string projectName = "First-Project";
+Console.WriteLine($@"C:\Output\{projectName}\Data");
+
+=============
+Exercise
+string projectName = "ACME";
+Console.Write("View English output\n");
+Console.WriteLine($@"c:\Exercise\{projectName}\data.txt\n");
+
+string russianMessage = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0432\u044b\u0432\u043e\u0434";
+Console.WriteLine($"\n{russianMessage}");
+Console.Write($@"c:\Exercise\{projectName}\ru-RU\data.txt");
+
+Output\
+View English output
+c:\Exercise\ACME\data.txt\n
+
+Посмотреть русский вывод
+c:\Exercise\ACME\ru-RU\data.txt
+==============
+ Write your first code using C# (Get started with C#, Part 1)
+https://learn.microsoft.com/training/modules/csharp-basic-operations/
+-------------------------
+int firstNumber = 12;
+int secondNumber = 7;
+
+Console.WriteLine(firstNumber + secondNumber);
+
+Output
+19
+------------------------
+string firstName = "Bergami";
+int widgetsSold = 7;
+
+Console.WriteLine(firstName + " sold " + widgetsSold + " widgets.");
+
+Output
+Bergami sold 7 widgets.
+-----------------------
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold " + widgetsSold + 7 + " widgets.");
+
+Output
+Bergami sold 77 widgets.
+----------------------
+string firstName = "Bergami";
+int widgetsSold = 7;
+
+Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
+
+Output
+Bergami sold 14 widgets.
+---------------------
+int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+int quotient = 7 / 5;
+
+Console.WriteLine("Sum: " + sum);
+Console.WriteLine("Difference: " + difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quocient: " + quotient);
+
+Output
+Sum: 12
+Difference: 2
+Product: 35
+Quocient: 1
+---------------------
+decimal decimalQuotient = 7.0m / 5;
+decimal decimalQuotient1 = 7.0m / 5.0m;
+
+Console.WriteLine($"Decimal Quotient: {decimalQuotient}");
+Console.WriteLine($"Decimal Quotient: {decimalQuotient1}");
+
+Output
+Decimal quotient: 1.4
+---------------------
+int first = 7;
+int second = 5;
+decimal quotient = (decimal)first / (decimal)second;
+Console.WriteLine(quotient);
+
+Output
+1.4
+---------------------
+
+Console.WriteLine($"Modulus of 200 / 5 :  {200 % 5}");
+Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");
+
+Output
+Modulus of 200 / 5 :  0
+Modulus of 7 / 5 : 2
+--------------------
+int value1 = 3 + 4 * 5;
+int value2 = (3 + 4) * 5;
+Console.WriteLine(value1);
+Console.WriteLine(value2);
+
+Output
+23
+35
+--------------------
+Increment and decrement
+int value = 0; // value is now 0.
+value = value + 5; // value is now 5.
+value += 5; // value is now 10.
+
+int value1 = 0; // value is now 0.
+value = value + 1; // value is now 1.
+value++; //value is now 2.
+
+//addition assignment operator
+--------------------
+//Write code to increment and decrement a value
+int value = 1;
+
+value = value + 1;
+Console.WriteLine("First increment: " + value);
+
+value += 1;
+Console.WriteLine("Second increment: " + value);
+
+value++;
+Console.WriteLine("Third increment: " + value);
+
+value = value - 1;
+Console.WriteLine("First decrement: " + value);
+
+value -= 1;
+Console.WriteLine("Second decrement: " + value);
+
+value--;
+Console.WriteLine("Third decrement: " + value);
+
+Output
+First increment: 2
+Second increment: 3
+Third increment: 4
+First decrement: 3
+Second decrement: 2
+Third decrement: 1
+---------------------
+//Use the increment operator before and after the value
+int value = 1;
+value++;
+Console.WriteLine("First: " + value);
+Console.WriteLine($"Second: {value++}");
+Console.WriteLine("Third: " + value);
+Console.WriteLine("Fourth: " + (++value));
+
+Output
+First: 2
+Second: 2
+Third: 3
+Fourth: 4
+--------------------
+/*To convert temperatures in degrees Fahrenheit to Celsius, first subtract 32, then multiply by five ninths (5 / 9).
+
+Display the result of the temperature conversion in a formatted message
+
+Combine the variables with literal strings passed into a series of Console.WriteLine() commands to form the complete message.*/
+int fahrenheit = 94;
+Console.WriteLine("The temperature is: " + (fahrenheit - 32.0m) * 5.0m / 9.0m + " Celsius.");
+
+int fahrenheit = 94;
+decimal celsius = (fahrenheit - 32m) * (5m / 9m);
+Console.WriteLine("The temperature is " + celsius + " Celsius.");
+-------------------

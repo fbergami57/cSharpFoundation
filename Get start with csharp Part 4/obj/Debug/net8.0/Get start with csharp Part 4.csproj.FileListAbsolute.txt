@@ -1,0 +1,14 @@
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\bin\Debug\net8.0\Get start with csharp Part 4.exe
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\bin\Debug\net8.0\Get start with csharp Part 4.deps.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\bin\Debug\net8.0\Get start with csharp Part 4.runtimeconfig.json
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\bin\Debug\net8.0\Get start with csharp Part 4.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\bin\Debug\net8.0\Get start with csharp Part 4.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\Get start with csharp Part 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\Get start with csharp Part 4.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\Get start with csharp Part 4.AssemblyInfo.cs
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\Get start with csharp Part 4.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\Get start with csharp Part 4.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\refint\Get start with csharp Part 4.dll
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\Get start with csharp Part 4.pdb
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\Get start with csharp Part 4.genruntimeconfig.cache
+D:\Cursos\C#\Free Code Camp\Foundational C# with Microsoft\Get start with csharp Part 4\obj\Debug\net8.0\ref\Get start with csharp Part 4.dll
