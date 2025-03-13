@@ -1,0 +1,14 @@
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\bin\Debug\net9.0\ExamineTryParse.exe
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\bin\Debug\net9.0\ExamineTryParse.deps.json
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\bin\Debug\net9.0\ExamineTryParse.runtimeconfig.json
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\bin\Debug\net9.0\ExamineTryParse.dll
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\bin\Debug\net9.0\ExamineTryParse.pdb
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ExamineTryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ExamineTryParse.AssemblyInfoInputs.cache
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ExamineTryParse.AssemblyInfo.cs
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ExamineTryParse.csproj.CoreCompileInputs.cache
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ExamineTryParse.dll
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\refint\ExamineTryParse.dll
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ExamineTryParse.pdb
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ExamineTryParse.genruntimeconfig.cache
+D:\C#\modulescsharp-convert-cast3-exercise-tryparse\ExamineTryParse\obj\Debug\net9.0\ref\ExamineTryParse.dll
