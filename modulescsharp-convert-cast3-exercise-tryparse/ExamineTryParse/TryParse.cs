@@ -1,8 +1,8 @@
 ﻿namespace ExamineTryParse
 {
-    public class Program
+    public class TryParse
     {
-        public Program()
+        static void Main(string[] args)
         {
                     //Program.cs(3,14): error CS0029: Cannot implicitly convert type 'string' to 'int'
             /*int first1 = 2;
@@ -29,7 +29,7 @@
 
             //Perform a cast to convert the decimal back to an int.
             decimal myDecimal1 = 3.14m;
-            Console.WriteLine($"decimal: {myDecimal}");
+            Console.WriteLine($"decimal: {myDecimal1}");
 
             int myInt2 = (int)myDecimal;
             Console.WriteLine($"int: {myInt}");

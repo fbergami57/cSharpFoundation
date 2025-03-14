@@ -1,0 +1,15 @@
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\bin\Debug\net9.0\TryParseMethod.exe
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\bin\Debug\net9.0\TryParseMethod.deps.json
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\bin\Debug\net9.0\TryParseMethod.runtimeconfig.json
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\bin\Debug\net9.0\TryParseMethod.dll
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\bin\Debug\net9.0\TryParseMethod.pdb
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.AssemblyInfoInputs.cache
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.AssemblyInfo.cs
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.csproj.CoreCompileInputs.cache
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.sourcelink.json
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.dll
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\refint\TryParseMethod.dll
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.pdb
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\TryParseMethod.genruntimeconfig.cache
+D:\C#\cSharpFoundation\TryParseMethod\TryParseMethod\obj\Debug\net9.0\ref\TryParseMethod.dll
