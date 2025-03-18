@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\C#\\Free Code Camp\\Foundational C# with Microsoft\\exercise-data-type-conversion\\exercise-data-type-conversion.csproj",
+      "projectUniqueName": "D:\\Cursos\\C#\\Free_Code_Camp\\cSharpFoundation\\exercise-data-type-conversion\\exercise-data-type-conversion.csproj",
       "projectName": "exercise-data-type-conversion",
-      "projectPath": "D:\\Cursos\\C#\\Free Code Camp\\Foundational C# with Microsoft\\exercise-data-type-conversion\\exercise-data-type-conversion.csproj",
+      "projectPath": "D:\\Cursos\\C#\\Free_Code_Camp\\cSharpFoundation\\exercise-data-type-conversion\\exercise-data-type-conversion.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\C#\\Free Code Camp\\Foundational C# with Microsoft\\exercise-data-type-conversion\\obj\\",
+      "outputPath": "D:\\Cursos\\C#\\Free_Code_Camp\\cSharpFoundation\\exercise-data-type-conversion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

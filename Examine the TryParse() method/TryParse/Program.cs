@@ -2,6 +2,22 @@
 //string name = "Bob";
 //Console.WriteLine(int.Parse(name));
 
+//TryParse() a string into an int
+/*
+string value = "102";
+int result = 0;
+if (int.TryParse(value, out result))
+{
+   Console.WriteLine($"Measurement: {result}");
+}
+else
+{
+   Console.WriteLine("Unable to report the measurement.");
+}
+"Measurement: 102;"
+*/
+
+//Modify the string variable to a value that can't be parsed
 string value = "bad";
 int result = 0;
 if (int.TryParse(value, out result))
