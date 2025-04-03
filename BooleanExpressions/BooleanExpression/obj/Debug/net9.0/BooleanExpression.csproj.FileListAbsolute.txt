@@ -1,0 +1,15 @@
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\bin\Debug\net9.0\BooleanExpression.exe
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\bin\Debug\net9.0\BooleanExpression.deps.json
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\bin\Debug\net9.0\BooleanExpression.runtimeconfig.json
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\bin\Debug\net9.0\BooleanExpression.dll
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\bin\Debug\net9.0\BooleanExpression.pdb
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.AssemblyInfo.cs
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.sourcelink.json
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.dll
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\refint\BooleanExpression.dll
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.pdb
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\BooleanExpression.genruntimeconfig.cache
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\BooleanExpressions\BooleanExpression\obj\Debug\net9.0\ref\BooleanExpression.dll
