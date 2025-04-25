@@ -1,0 +1,15 @@
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\bin\Debug\net9.0\ExerciseBool.exe
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\bin\Debug\net9.0\ExerciseBool.deps.json
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\bin\Debug\net9.0\ExerciseBool.runtimeconfig.json
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\bin\Debug\net9.0\ExerciseBool.dll
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\bin\Debug\net9.0\ExerciseBool.pdb
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.AssemblyInfoInputs.cache
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.AssemblyInfo.cs
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.csproj.CoreCompileInputs.cache
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.sourcelink.json
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.dll
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\refint\ExerciseBool.dll
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.pdb
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ExerciseBool.genruntimeconfig.cache
+D:\Cursos\C#\Free_Code_Camp\cSharpFoundation\Exercise - Complete a challenge to combine string array values as strings and as integers\ExerciseBool\obj\Debug\net9.0\ref\ExerciseBool.dll
