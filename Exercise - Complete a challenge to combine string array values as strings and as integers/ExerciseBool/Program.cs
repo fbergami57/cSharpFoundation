@@ -20,4 +20,4 @@ foreach (var value in values)
 }
 
 Console.WriteLine($"Message: {message}");
-Console.WriteLine($"Total: {total:F2}");
+Console.WriteLine($"Total: {total}");

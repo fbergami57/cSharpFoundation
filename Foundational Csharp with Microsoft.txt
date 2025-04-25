@@ -414,4 +414,46 @@ Evaluate greater than, less than and similar operations using comparison operato
 If a method returns a bool, it can be used as a Boolean expression.
 Use the logical negation operator ! to evaluate the opposite of a given expression.
 */
+//Exercise - Implement the conditional operator
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+
+string message = "";
+decimal total = 0m;
+
+foreach (var value in values)
+{
+    decimal number; // stores the TryParse "out" value
+    if (decimal.TryParse(value, out number))
+    {
+        total += number;
+    }
+    else
+    {
+        message += value;
+    }
+}
+
+Console.WriteLine($"Message: {message}");
+Console.WriteLine($"Total: {total}");
+//==================
+//-----------------------------
+string[] values1 = { "12.3", "45", "ABC", "11", "DEF" };
+
+decimal total1 = 0m;
+string message1 = "";
+
+foreach (var value1 in values1)
+{
+    decimal number1; // stores the TryParse "out" value
+    if (decimal.TryParse(value1, Cultureinfo.IvariantCulture, out number1))
+    {
+        total1 += number1;
+    } else
+    {
+        message1 += value1;
+    }
+}
+
+Console.WriteLine($"Message: {message1}");
+Console.WriteLine($"Total: {total1}");
 
