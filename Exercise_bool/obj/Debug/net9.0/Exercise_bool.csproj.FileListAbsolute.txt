@@ -1,0 +1,15 @@
+D:\C#\cSharpFoundation\Exercise_bool\bin\Debug\net9.0\Exercise_bool.exe
+D:\C#\cSharpFoundation\Exercise_bool\bin\Debug\net9.0\Exercise_bool.deps.json
+D:\C#\cSharpFoundation\Exercise_bool\bin\Debug\net9.0\Exercise_bool.runtimeconfig.json
+D:\C#\cSharpFoundation\Exercise_bool\bin\Debug\net9.0\Exercise_bool.dll
+D:\C#\cSharpFoundation\Exercise_bool\bin\Debug\net9.0\Exercise_bool.pdb
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.AssemblyInfoInputs.cache
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.AssemblyInfo.cs
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.csproj.CoreCompileInputs.cache
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.sourcelink.json
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.dll
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\refint\Exercise_bool.dll
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.pdb
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\Exercise_bool.genruntimeconfig.cache
+D:\C#\cSharpFoundation\Exercise_bool\obj\Debug\net9.0\ref\Exercise_bool.dll
